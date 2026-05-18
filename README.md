@@ -15,6 +15,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=760&lines=Building+mods+for+the+OPLUS+ecosystem;ColorOS+%2F+OxygenOS+Tweaker;System-less+Android+Modding;MediaTek+Performance+Optimization;Premium+Android+UI+Enhancements"/>
 
 </div>
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sairb1E&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sairb1&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sairb1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -137,20 +150,6 @@ SELinux Contexts
 | Android | ColorOS 16 | MediaTek |
 | Android 16 | OxygenOS 16 | Dimensity |
 | RUI7 | OPLUS Framework | System-less Mods |
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sairb1E&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sairb1&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sairb1&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

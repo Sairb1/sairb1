@@ -101,6 +101,7 @@ Clean interface. Fast workflow. No unnecessary complexity.
 
 - Flux Theme Enabler
 - 120Hz OPLUS Force
+- MT6835 Optimizer
 - Disable Servers Save Battery
 
 Focused mainly on:

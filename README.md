@@ -95,8 +95,6 @@ Clean interface. Fast workflow. No unnecessary complexity.
 
 # 📦 Featured Projects
 
-```
-
 ---
 
 ## 🌌 Magisk Modules

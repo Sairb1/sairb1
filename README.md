@@ -76,7 +76,7 @@ especially fixing the things OEMs either lock down, break, or never optimize pro
 
 ---
 
-# 🚀 Unified Tool Pro
+#  Unified Tool Pro
 
 **Unified Tool Pro** is my all-in-one Android flashing & repair utility focused on simplifying low-level Android operations through a clean modern GUI.
 
@@ -95,17 +95,6 @@ Clean interface. Fast workflow. No unnecessary complexity.
 
 # 📦 Featured Projects
 
-## ❄️ Disable_Servers_Save_Battery
-
-MediaTek logger killer & telemetry blocker designed to:
-- reduce idle drain
-- reduce heating
-- improve deep sleep
-- disable hidden OPLUS services
-
-### Stack:
-```text
-Magisk • KernelSU • APatch • Android 16 • MTK
 ```
 
 ---

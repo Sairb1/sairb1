@@ -142,8 +142,8 @@ System Properties
 
 | Android | Ecosystem | Platform |
 |---|---|---|
-| Android | ColorOS 16 | MediaTek |
-| Android 16 | OxygenOS 16 | Dimensity |
+| Port ROMS | Modding | MediaTek |
+| Android 16 | OOS/COS 16 | Dimensity |
 | RUI7 | OPLUS Framework | System-less Mods |
 
 </div>

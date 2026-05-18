@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayan aka sairb1
+# 👋 Hey, I'm Ayan
 
 ### Android Modder • ROM Porter • OPLUS Tweaker • Sometimes Building TWRP
 

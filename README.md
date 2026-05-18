@@ -55,8 +55,7 @@ especially fixing the things OEMs either lock down, break, or never optimize pro
 
 | Type | Work |
 |---|---|
-| 📱 ROM Porting | ColorOS / OxygenOS Ports |
-| 🔧 Recovery | TWRP for MediaTek Devices |
+| 📱 ROM Porting | RUI7 / ColorOS / OxygenOS Ports |
 | ⚡ Optimization | Battery • Thermal • Performance |
 | 🌌 UI Mods | Flux Theme • Blur • Animations |
 | 🛡️ System-less Mods | Magisk • KSU • APatch Modules |
@@ -135,7 +134,7 @@ SELinux Contexts
 
 | Android | Ecosystem | Platform |
 |---|---|---|
-| Android 15 | ColorOS 16 | MediaTek |
+| Android | ColorOS 16 | MediaTek |
 | Android 16 | OxygenOS 16 | Dimensity |
 | RUI7 | OPLUS Framework | System-less Mods |
 

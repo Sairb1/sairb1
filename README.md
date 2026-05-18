@@ -128,15 +128,10 @@ Focused mainly on:
 
 ```text
 Android Modding
-Magisk Modules
-KernelSU
-APatch
-Shell Scripting
+Root SU
 Linux
 Git
-MediaTek Debugging
 System Properties
-SELinux Contexts
 ```
 
 ---

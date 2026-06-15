@@ -87,7 +87,7 @@ Instead of juggling 10 different command-line tools, everything is centralized i
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sairb1E&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sairb1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sairb1&theme=tokyonight&hide_border=true)
 
